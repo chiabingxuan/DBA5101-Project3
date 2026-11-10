@@ -1,0 +1,98 @@
+{
+    "0": {
+        "num_pulls": 49,
+        "total_reward": 1466
+    },
+    "1": {
+        "num_pulls": 5,
+        "total_reward": 147
+    },
+    "2": {
+        "num_pulls": 4,
+        "total_reward": 135
+    },
+    "3": {
+        "num_pulls": 3,
+        "total_reward": 104
+    },
+    "4": {
+        "num_pulls": 2,
+        "total_reward": 73
+    },
+    "5": {
+        "num_pulls": 3,
+        "total_reward": 128
+    },
+    "6": {
+        "num_pulls": 6,
+        "total_reward": 214
+    },
+    "7": {
+        "num_pulls": 6,
+        "total_reward": 216
+    },
+    "8": {
+        "num_pulls": 7,
+        "total_reward": 284
+    },
+    "9": {
+        "num_pulls": 2,
+        "total_reward": 72
+    },
+    "10": {
+        "num_pulls": 1,
+        "total_reward": 38
+    },
+    "11": {
+        "num_pulls": 4,
+        "total_reward": 151
+    },
+    "12": {
+        "num_pulls": 3,
+        "total_reward": 120
+    },
+    "13": {
+        "num_pulls": 2,
+        "total_reward": 89
+    },
+    "14": {
+        "num_pulls": 4,
+        "total_reward": 154
+    },
+    "15": {
+        "num_pulls": 5,
+        "total_reward": 231
+    },
+    "16": {
+        "num_pulls": 0,
+        "total_reward": 0
+    },
+    "17": {
+        "num_pulls": 2,
+        "total_reward": 86
+    },
+    "18": {
+        "num_pulls": 8,
+        "total_reward": 372
+    },
+    "19": {
+        "num_pulls": 25,
+        "total_reward": 1230
+    },
+    "20": {
+        "num_pulls": 17,
+        "total_reward": 835
+    },
+    "21": {
+        "num_pulls": 6,
+        "total_reward": 311
+    },
+    "22": {
+        "num_pulls": 9,
+        "total_reward": 449
+    },
+    "23": {
+        "num_pulls": 827,
+        "total_reward": 43752
+    }
+}
