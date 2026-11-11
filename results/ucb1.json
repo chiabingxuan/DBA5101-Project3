@@ -1,98 +1,98 @@
 {
     "0": {
-        "num_pulls": 29,
-        "total_reward": 885
+        "num_pulls": 399,
+        "total_reward": 6788
     },
     "1": {
-        "num_pulls": 29,
-        "total_reward": 886
+        "num_pulls": 272,
+        "total_reward": 3385
     },
     "2": {
-        "num_pulls": 29,
-        "total_reward": 911
+        "num_pulls": 453,
+        "total_reward": 8305
     },
     "3": {
-        "num_pulls": 30,
-        "total_reward": 977
+        "num_pulls": 770,
+        "total_reward": 17746
     },
     "4": {
-        "num_pulls": 33,
-        "total_reward": 1151
+        "num_pulls": 285,
+        "total_reward": 3725
     },
     "5": {
-        "num_pulls": 32,
-        "total_reward": 1109
+        "num_pulls": 172,
+        "total_reward": 990
     },
     "6": {
-        "num_pulls": 34,
-        "total_reward": 1226
+        "num_pulls": 309,
+        "total_reward": 4356
     },
     "7": {
-        "num_pulls": 35,
-        "total_reward": 1324
+        "num_pulls": 795,
+        "total_reward": 18516
     },
     "8": {
-        "num_pulls": 35,
-        "total_reward": 1301
+        "num_pulls": 231,
+        "total_reward": 2372
     },
     "9": {
-        "num_pulls": 37,
-        "total_reward": 1440
+        "num_pulls": 196,
+        "total_reward": 1527
     },
     "10": {
-        "num_pulls": 38,
-        "total_reward": 1514
+        "num_pulls": 912,
+        "total_reward": 22160
     },
     "11": {
-        "num_pulls": 38,
-        "total_reward": 1509
+        "num_pulls": 302,
+        "total_reward": 4158
     },
     "12": {
-        "num_pulls": 40,
-        "total_reward": 1672
+        "num_pulls": 445,
+        "total_reward": 8079
     },
     "13": {
-        "num_pulls": 42,
-        "total_reward": 1797
+        "num_pulls": 529,
+        "total_reward": 10493
     },
     "14": {
-        "num_pulls": 43,
-        "total_reward": 1865
+        "num_pulls": 183,
+        "total_reward": 1240
     },
     "15": {
-        "num_pulls": 44,
-        "total_reward": 1940
+        "num_pulls": 295,
+        "total_reward": 3981
     },
     "16": {
-        "num_pulls": 45,
-        "total_reward": 2035
+        "num_pulls": 330,
+        "total_reward": 4912
     },
     "17": {
-        "num_pulls": 47,
-        "total_reward": 2159
+        "num_pulls": 670,
+        "total_reward": 14689
     },
     "18": {
-        "num_pulls": 53,
-        "total_reward": 2603
+        "num_pulls": 594,
+        "total_reward": 12409
     },
     "19": {
-        "num_pulls": 52,
-        "total_reward": 2536
+        "num_pulls": 502,
+        "total_reward": 9714
     },
     "20": {
-        "num_pulls": 53,
-        "total_reward": 2626
+        "num_pulls": 188,
+        "total_reward": 1353
     },
     "21": {
-        "num_pulls": 59,
-        "total_reward": 3067
+        "num_pulls": 392,
+        "total_reward": 6592
     },
     "22": {
-        "num_pulls": 61,
-        "total_reward": 3222
+        "num_pulls": 188,
+        "total_reward": 1346
     },
     "23": {
-        "num_pulls": 62,
-        "total_reward": 3298
+        "num_pulls": 588,
+        "total_reward": 12238
     }
 }
